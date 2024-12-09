@@ -1,0 +1,42 @@
+body {
+    background-color:#d8d1d1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 1;
+    flex-direction: column;
+}
+* {
+    font-family: "Sour Gummy", "sans-serif";
+}
+
+p {
+    color:rgb(255, 255, 255);
+}
+
+h2 {
+    color:rgb(255, 0, 85)
+}
+
+img{
+    width:400px;
+    height: 800px;
+}
+
+iframe{
+    width:400px;
+    height: 400px;
+}
+
+table{
+    border-collapse: collapse;padding: 5px;
+}
+th{    background-color: #ff0000ef;
+}
+
+td{
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+}
